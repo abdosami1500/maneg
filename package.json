@@ -27,7 +27,7 @@
     "node-opus": "^0.2.7",
     "opusscript": "0.0.6",
     "python": "0.0.4",
-    "quick.db":"7.0.0-b16",
+    "quick.db":"7.0.0",
     "jimp": "0.3.2",
     "zalgolize":"1.2.4",
   "request": "^2.85.0",
